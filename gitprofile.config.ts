@@ -77,10 +77,10 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://atorres00.github.io/pdf/CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://atorres00.github.io/pdf/C.V..pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Chemistry', 'Bioinformatics', 'Ecology'
+    'Chemistry', 'Bioinformatics', 'Ecology', 'Bioethics'
   ],
   experiences: [
     {
