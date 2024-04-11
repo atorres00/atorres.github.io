@@ -80,7 +80,7 @@ const CONFIG = {
       'https://atorres00.github.io/pdf/CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PCR', 'Bioinformatics', 'Teaching'
+    'Chemistry', 'Bioinformatics', 'Ecology'
   ],
   experiences: [
     {
@@ -88,36 +88,36 @@ const CONFIG = {
       position: 'Assistant Professor',
       from: 'August 2022',
       to: 'Present',
-      companyLink: 'https://www.csustan.edu',
+      companyLink: '',
     },
     {
-      company: 'CSU Fresno',
-      position: 'Assistant/Associate Professor',
-      from: 'August 2015',
-      to: 'August 2022',
-      companyLink: 'https://www.fresnostate.edu',
+      company: '',
+      position: '',
+      from: '',
+      to: '',
+      companyLink: '',
     },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: '',
+      body: '',
+      year: '',
+      link: '',
     },
   ],
   educations: [
     {
-      institution: 'CSU Fresno',
-      degree: 'MBA',
-      from: '2020',
+      institution: 'CSU Stanislaus',
+      degree: 'BA',
+      from: '2019',
       to: '2024',
     },
     {
-      institution: 'University of Texas at San Antonio',
-      degree: 'PhD',
-      from: '2007',
-      to: '2012',
+      institution: '',
+      degree: '',
+      from: '',
+      to: '',
     },
   ],
   publications: [
