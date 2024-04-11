@@ -84,10 +84,10 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'CSU Stanislaus',
-      position: 'Assistant Professor',
-      from: 'August 2022',
-      to: 'Present',
+      company: '',
+      position: '',
+      from: '',
+      to: '',
       companyLink: '',
     },
     {
@@ -109,7 +109,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'CSU Stanislaus',
-      degree: 'BA',
+      degree: 'BA Biology',
       from: '2019',
       to: '2024',
     },
